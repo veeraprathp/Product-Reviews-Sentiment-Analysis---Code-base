@@ -23,4 +23,3 @@ or if your system have a GPU,
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 
-If you are having any issues with setting up the project, feel free to mail FSR-AI @ fsr-ai@b-tu.de
